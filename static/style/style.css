@@ -1,0 +1,22 @@
+
+
+.navContainer {
+    position: absolute;
+    z-index: 5;
+    padding: 20px 0 0 50px;
+}
+
+.nav-link {
+    font-size: 80px; /* Adjust the font size as needed */
+}
+
+
+.custom-container {
+    padding-right: 20px; /* Adjust the right padding as needed */
+    padding-left: 10px;  /* Adjust the left padding as needed */
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
